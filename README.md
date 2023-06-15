@@ -7,4 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHuugoDV&show_icons=true&theme=dracula)
 
-Sou uma pessoa que não tem medo de tentar e desde novo apaixonado por tecnologia 
+- Sou uma pessoa que não tem medo de tentar e desde novo apaixonado por tecnologia 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHuugoDV)](https://github.com/VictorHuugoDV/github-readme-stats)
